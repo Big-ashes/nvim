@@ -71,7 +71,7 @@ map <C-right> :vertical resize -5<CR>
 
 
 let g:coc_disable_startup_warning = 1
-let g:coc_global_extensions = ['coc-json','coc-vimlsp']
+let g:coc_global_extensions = ['coc-json', 'coc-vimlsp', 'coc-clangd']
 
 
 
